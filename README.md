@@ -2,19 +2,12 @@
 
 
 
-<img src="https://i.pinimg.com/736x/56/fd/38/56fd384435dd19acfda828f04e461505.jpg" width="100%" alt="Баннер профиля" />
-
-<br/>
+<img src="https://i.pinimg.com/736x/59/0c/b5/590cb5b9db3ee725ec313f2a1b021671.jpg" width="100%" alt="Баннер профиля" />
 
 
 
-<p>
-  <img src="https://img.shields.io/badge/Статус-Учусь%20и%20создаю-2563eb?style=for-the-badge&logo=github" alt="Учусь и создаю" />
-  <img src="https://img.shields.io/badge/Направление-Frontend-7c3aed?style=for-the-badge&logo=webflow&logoColor=white" alt="Frontend-разработка" />
-  <img src="https://img.shields.io/badge/Главный%20двигатель-Любопытство-f59e0b?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Любопытство" />
-</p>
 
-</div>
+
 
 ---
 
