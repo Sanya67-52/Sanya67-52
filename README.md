@@ -2,7 +2,7 @@
 
 
 
-<img src="https://i.pinimg.com/1200x/05/59/55/0559559ec27203deaaae999c685e4e34.jpg" width="100%" alt="Баннер профиля" />
+<img src="https://i.pinimg.com/1200x/b5/b4/66/b5b4667f8fff7fc46a3ea9effc0b27d0.jpg" width="100%" alt="Баннер профиля" />
 
 <br/>
 
